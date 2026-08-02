@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "FBI",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "GlenrichSMP.aternos.me",
-    "port": 26278,
+    "port":43726,
     "version": "",
     "try-creative": false
   },
